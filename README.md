@@ -84,7 +84,7 @@
   </a>
   <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
     <img
-      src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg"
+      src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/nextjs-icon.png"
       alt="nextjs"
       width="40"
       height="40"
@@ -106,6 +106,14 @@
       height="40"
     />
   </a>
+  <a href="https://ui.shadcn.com/" target="_blank" rel="noreferrer">
+    <img
+      src="https://ui.shadcn.com/apple-touch-icon.png"
+      alt="shadcn"
+      width="40"
+      height="40"
+    />
+  </a>
   <a href="https://mui.com/" target="_blank" rel="noreferrer">
     <img
       src="https://cdn.worldvectorlogo.com/logos/material-ui-1.svg"
@@ -114,11 +122,10 @@
       height="40"
     />
   </a>
-
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
+  <a href="https://ant.design/" target="_blank" rel="noreferrer">
     <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"
-      alt="bootstrap"
+      src="https://cdn.worldvectorlogo.com/logos/ant-design-2.svg"
+      alt="antdesign"
       width="40"
       height="40"
     />
@@ -129,7 +136,7 @@
 <p align="left">
   <a href="https://expressjs.com" target="_blank" rel="noreferrer">
     <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg"
+      src="https://www.svgrepo.com/show/303360/nodejs-logo.svg"
       alt="express"
       width="40"
       height="40"
