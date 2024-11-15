@@ -4,9 +4,11 @@
   An enthusiastic and passionate software who can be a flexible, good team
   player.
 </h3>
-- 👨‍💻 All of my projects are available at [TBA](TBA) - 📫 How to reach me:
-**teelapat.pra@gmail.com** - 📄 Know about my experiences: [TBA](TBA) - ⚡ Fun
-fact: **I think I'm gonna go get some coffee.**
+
+- 👨‍💻 All of my projects are available at [TBA](TBA)
+- 📫 How to reach me: **teelapat.pra@gmail.com**
+- 📄 Know about my experiences: [TBA](TBA)
+- ⚡ Fun fact: **I think I'm gonna go get some coffee.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left"></p>
